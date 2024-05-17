@@ -11,4 +11,3 @@ I received my PhD from the University of Illinois at Chicago, where I was superv
 I received my bachelor's degree from Beihang University in 2016.
 
 ------
-\
