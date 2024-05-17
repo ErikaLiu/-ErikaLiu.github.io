@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Zheng Liu (刘铮)"
-  pronouns         : "she/her"  
+  pronouns         : "She/Her"  
   bio              : "Machine Learning Engineer in Bytedance"
   location         : "San Jose"
   employer         : "Bytedance Inc."
@@ -31,12 +31,12 @@ author:
   email            : "zheng.liu@bytedance.com" 
 
   # Academic websites
-  arxiv            : ""
+  # arxiv            : ""
   googlescholar    : "https://scholar.google.com/citations?user=z4HXJw4AAAAJ&hl=en"
-  impactstory      : # URL
+  # impactstory      : # URL
   orcid            : "http://orcid.org/0009-0009-0821-6176"
-  pubmed           : ""
-  researchgate     : # URL
+  # pubmed           : ""
+  # researchgate     : # URL
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
